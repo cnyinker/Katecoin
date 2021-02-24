@@ -1,18 +1,17 @@
 KateCoin integration/staging tree
 ================================
-![katecoin](http://i.imgur.com/BS9hSS8.png)
+![kateCoin](https://i.imgur.com/ZO9Qsii.png)
 
-http://www.katecoin.org
+http://www.katecoin.com
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 Litecoin Developers
-Copyright (c) 2014-2015 VeriCoin Developers
 Copyright (c) 2014-2015 KateCoin Developers
 
 What is KateCoin?
 ----------------
 
-KateCoin [SLR] is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
+KateCoin [KTC] is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
 
 - 140 Character Transaction Messaging
 - 100 coins per block initial rewards, halving every 525,600 (once a year) blocks.
@@ -32,7 +31,7 @@ Block 310,000 (Implemented block reduction & Patched KGW retargeting algorithm)
 QR Code Support
 
 For more information, as well as an immediately useable, binary version of
-the KateCoin client sofware, see http://www.katecoin.org.
+the KateCoin client sofware, see http://www.katecoin.com.
 
 License
 -------
