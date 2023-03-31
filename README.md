@@ -2,7 +2,7 @@ KateCoin integration/staging tree
 ================================
 ![kateCoin](https://i.imgur.com/ZO9Qsii.png)
 
-http://www.katecoin.com
+http://www.katecoin.org
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 Litecoin Developers
@@ -20,7 +20,7 @@ KateCoin [KTC] is a lite version of Bitcoin using scrypt as a proof-of-work algo
 - RPC PORT = 18181
 - P2P PORT = 18188
 - Public Key: 18
-- Addresses begin with '8'
+- Addresses begin with 'K'
 - nChainStartTime: 1384473600
 - Genesis Block Hash: edcf32dbfd327fe7f546d3a175d91b05e955ec1224e087961acc9a2aa8f592ee
 - Merkle Root: 33ecdb1985425f576c65e2c85d7983edc6207038a2910fefaf86cfb4e53185a3
@@ -31,7 +31,7 @@ Block 310,000 (Implemented block reduction & Patched KGW retargeting algorithm)
 QR Code Support
 
 For more information, as well as an immediately useable, binary version of
-the KateCoin client sofware, see http://www.katecoin.com.
+the KateCoin client sofware, see http://www.katecoin.org.
 
 License
 -------
